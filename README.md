@@ -6,16 +6,12 @@ TV Tracker is meant for people who like to watch TV--be it on Netflix, Hulu, Dis
 
 ### How?
 
-A description of what the system will do from an end-user's perspective.  Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
-
 There will be one main component to TV Tracker: a website where you can:
 
 - Create an account
 - Search for TV shows
 - View TV shows
 - Add a TV show to a list
-
-To go into more detail:
 
 #### Creating an Account
 
@@ -50,4 +46,5 @@ Additional things that could be added include: a browser extension that could sy
 ## Collaborators
 
 Samantha Eng (sme388)
+
 Ben Kaplan (brk313)
