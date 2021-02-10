@@ -48,3 +48,5 @@ Additional things that could be added include: a browser extension that could sy
 Samantha Eng (sme388)
 
 Ben Kaplan (brk313)
+
+Lev Bernstein (lkb335)
